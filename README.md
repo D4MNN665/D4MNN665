@@ -34,7 +34,6 @@
 ### Cloud & DevOps
 - ☁️ **Google Cloud Platform (GCP)** – VMs y despliegue de servicios
 - ☁️ **Oracle Cloud** – Máquinas virtuales y configuración de entornos
-- ☁️ **Firebase** – Backend, autenticación y base de datos en tiempo real
 
 ## Otras herramientas
 - 🐳 Docker – Contenerización de aplicaciones
