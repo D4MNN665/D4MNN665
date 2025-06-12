@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Sebastián
 
-💻 **Informático** apasionado por la tecnología, desarrollador de software, analista de datos y seguridad en sistemas.  
+💻 **Informático** apasionado por la tecnología; desarrollador de software, analista de datos y seguridad en sistemas.  
 📊 Con experiencia en desarrollar paginas webs e-commerce.
 
 ## 🚀 Sobre mí
