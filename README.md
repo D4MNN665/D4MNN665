@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Sebastián
 
 💻 **Informático** apasionado por la tecnología, Desarrollador de software, Analista de datos y seguridad en sistemas.  
-📊 Con experiencia en **análisis de datos**, proyectos de **Big Data** y **Business Intelligence**.
+📊 Con experiencia en **análisis de datos**, proyectos de **Big Data** y **Business Intelligence**.  
 
 ## 🚀 Sobre mí
 
@@ -9,6 +9,7 @@
 - 🧠 Siempre en busca de aprender nuevas tecnologías y aplicarlas en proyectos reales.
 - ☁️ He desplegado aplicaciones en entornos cloud como **Oracle Cloud** y **Google Cloud Platform (GCP)** usando máquinas virtuales.
 - 📈 He trabajado con datos a gran escala, aplicando modelos de Machine Learning y desarrollando dashboards interactivos.
+- 🛍️ Experiencia en desarrollo, personalización y **optimización SEO** de tiendas virtuales con WordPress y WooCommerce.
 
 ## 🛠️ Tecnologías y herramientas que utilizo
 
@@ -45,7 +46,9 @@
 - 🧠 **Proyectos de análisis de datos** con grandes volúmenes de información.
 - 📊 **Sistemas de Business Intelligence** con dashboards personalizados.
 - 🛰️ **Monitoreo de sensores industriales** con visualización en tiempo real.
-- 🔒 **Auditorías de seguridad** utilizando herramientas como Nessus.
+- ☁️ **Despliegue de aplicaciones en la nube** usando VMs y servicios en Oracle, GCP y Firebase.
+- 🛒 **Desarrollo de plataformas e-commerce** usando WordPress y WooCommerce.
+- 🔒 **Auditorías de seguridad informática** con herramientas profesionales.
 
 ## 🌐 Contacta conmigo
 
