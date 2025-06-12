@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Sebastián
 
 💻 **Informático** apasionado por la tecnología, Desarrollador de software, Analista de datos y seguridad en sistemas.  
-📊 Con experiencia en **análisis de datos**, proyectos de **Big Data** y **Business Intelligence**.  
+📊 Con experiencia en desarrollar paginas webs e-commerce.
 
 ## 🚀 Sobre mí
 
