@@ -45,7 +45,6 @@
 
 - 🧠 **Proyectos de análisis de datos** con grandes volúmenes de información.
 - 📊 **Sistemas de Business Intelligence** con dashboards personalizados.
-- 🛰️ **Monitoreo de sensores industriales** con visualización en tiempo real.
 - ☁️ **Despliegue de aplicaciones en la nube** usando VMs, servicios en Oracle y GCP.
 - 🛒 **Desarrollo de plataformas e-commerce** usando WordPress y WooCommerce.
 - 🔒 **Auditorías de seguridad informática** con herramientas profesionales.
