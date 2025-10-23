@@ -30,11 +30,12 @@
 ### Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### Cloud & DevOps
 - ☁️ **Google Cloud Platform (GCP)** – VMs y despliegue de servicios
 - ☁️ **Oracle Cloud** – Máquinas virtuales y configuración de entornos
+- ☁️ **FireBase** – despliegue de apps y configuracion de entorno
+
 
 ## Otras herramientas
 - 🐳 Docker – Contenerización de aplicaciones
