@@ -1,15 +1,7 @@
 # 👋 ¡Hola! Soy Sebastián
 
-💻 **Informático** apasionado por la tecnología; desarrollador de software, analista de datos y seguridad en sistemas.  
+💻 **Informático** apasionado por la tecnología; desarrollador de software.  
 📊 Con experiencia en desarrollar paginas webs e-commerce.
-
-## 🚀 Sobre mí
-
-- 🔧 Me encanta diseñar soluciones usando herramientas modernas y eficientes.
-- 🧠 Siempre en busca de aprender nuevas tecnologías y aplicarlas en proyectos reales.
-- ☁️ He desplegado aplicaciones en entornos cloud como **Oracle Cloud** y **Google Cloud Platform (GCP)** usando máquinas virtuales.
-- 📈 He trabajado con datos a gran escala, aplicando modelos de Machine Learning y desarrollando dashboards interactivos.
-- 🛍️ Experiencia en desarrollo, personalización y **optimización SEO** de tiendas virtuales con WordPress y WooCommerce.
 
 ## 🛠️ Tecnologías y herramientas que utilizo
 
@@ -36,7 +28,6 @@
 - ☁️ **Oracle Cloud** – Máquinas virtuales y configuración de entornos
 - ☁️ **FireBase** – despliegue de apps y configuracion de entorno
 
-
 ## Otras herramientas
 - 🐳 Docker – Contenerización de aplicaciones
 - 🔐 Nessus – Auditorías de seguridad
@@ -53,8 +44,6 @@
 ## 🌐 Contacta conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-palma-espinoza-aaa1a51b9/)
-- 📧 sebastian.palma945@gmail.com
-
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=D4MNN665&show_icons=true&theme=transparent)
+- 📧 sebastian.palma945@gmail.com}
 
 🙌 ¡Gracias por visitar mi perfil!
