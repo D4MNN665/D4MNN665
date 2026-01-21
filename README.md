@@ -1,10 +1,5 @@
 # 👋 ¡Hola! Soy Sebastián
-
-💻 **Informático** apasionado por la tecnología; desarrollador de software.  
-📊 Con experiencia en desarrollar paginas webs e-commerce.
-
 ## 🛠️ Tecnologías y herramientas que utilizo
-
 ### Lenguajes de programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -33,11 +28,6 @@
 - 🔐 Nessus – Auditorías de seguridad
 - 📊 Power BI – Dashboards e informes
 
-## 📈 Experiencia destacada
-
-- 🧠 **Proyectos de análisis de datos** con grandes volúmenes de información.
-- 📊 **Sistemas de Business Intelligence** con dashboards personalizados.
-- ☁️ **Despliegue de aplicaciones en la nube** usando VMs, servicios en Oracle y GCP.
 - 🛒 **Desarrollo de plataformas e-commerce** usando WordPress y WooCommerce.
 - 🔒 **Auditorías de seguridad informática** con herramientas profesionales.
 
